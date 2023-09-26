@@ -1,0 +1,9 @@
+1. Display list of questions
+	a. The system displays a randomly ordered list containing eight questions and its choices.
+	b. Each question should only be displayed once. Each question has three choices: a, b, and c.
+2. Accept answers to questions
+	a. The system shall accept one answer for each question. The following are the valid answers:
+	b. Answers that are not in the above choices will not be accepted.
+	c. The system should accept a total of eight valid answers.
+3. Count the answers
+	a. The system shall count the number of times each choice was answered.
